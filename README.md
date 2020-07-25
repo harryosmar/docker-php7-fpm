@@ -1,5 +1,6 @@
 # Docker 7.2-fpm
-with : `composer` & `git`
+
+> with : `composer` & `git`
 
 ## How to run
 
